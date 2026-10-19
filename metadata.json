@@ -1,0 +1,6 @@
+{
+  "name": "HoopScore ID - Pencatat Poin Basket",
+  "description": "Aplikasi pencatatan skor dan statistik pertandingan basket sederhana dengan fitur unggah roster pemain dan tim.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
